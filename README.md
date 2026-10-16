@@ -59,15 +59,6 @@ status    : building labs, documenting everything
 - 🏗️ Building an Active Directory lab: users, groups, GPO, endpoint logging
 - ✍️ Sharpening technical write-ups through TryHackMe and CTFs
 
-## `$ stats`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=er3n007&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=er3n007&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="Top languages" />
-
-</div>
-
 ## `$ contact --list`
 
 - GitHub: [@er3n007](https://github.com/er3n007)
