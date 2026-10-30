@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://er3n007.github.io"><img src="https://img.shields.io/badge/OPEN-FULL%20PROFILE-14401a?style=flat-square&labelColor=000000&logoColor=00ff41" alt="Open full profile"></a>\
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=9FD89F&center=true&vCenter=true&width=640&height=34&lines=%E2%9C%95++%E2%88%92++%2B++++%7C++++@er3n007" alt="window bar" />
+<img src="https://img.shields.io/badge/%E2%9C%95%20%20%E2%88%92%20%20%2B-%40er3n007-14401a?style=for-the-badge&labelColor=000000" alt="window bar" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=260&section=header&text=Guhan%20S&fontSize=64&fontColor=00ff41&animation=twinkling&fontAlignY=38&desc=SOC%20%7C%20DFIR%20%7C%20Blue%20Team&descSize=22&descColor=d8ffd8&descAlignY=62" alt="Guhan S banner" width="100%" />
 
@@ -13,6 +11,7 @@
 <a href="https://github.com/er3n007"><img src="https://img.shields.io/badge/GitHub-er3n007-14401a?style=flat-square&logo=github&logoColor=00ff41&labelColor=000000" alt="GitHub"></a>
 <img src="https://img.shields.io/badge/Focus-SOC%20%7C%20Blue%20Team-14401a?style=flat-square&logo=splunk&logoColor=00ff41&labelColor=000000" alt="SOC">
 <img src="https://img.shields.io/badge/Focus-DFIR-14401a?style=flat-square&logo=wireshark&logoColor=00ff41&labelColor=000000" alt="DFIR">
+<a href="https://er3n007.github.io"><img src="https://img.shields.io/badge/OPEN-FULL%20PROFILE-14401a?style=flat-square&labelColor=000000" alt="Open full profile"></a>
 
 </div>
 
