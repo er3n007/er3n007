@@ -1,17 +1,14 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/%E2%9C%95%20%20%E2%88%92%20%20%2B-%40er3n007-14401a?style=for-the-badge&labelColor=000000" alt="window bar" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=260&section=header&text=Guhan%20S&fontSize=64&fontColor=00ff41&animation=twinkling&fontAlignY=38&desc=SOC%20%7C%20DFIR%20%7C%20Blue%20Team&descSize=22&descColor=d8ffd8&descAlignY=62" alt="Guhan S banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=220&section=header&text=Guhan%20S&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=SOC%20%7C%20DFIR%20%7C%20Blue%20Team&descSize=20&descAlignY=58" alt="Guhan S banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=640&height=45&lines=Hunting+evidence+in+Windows+artifacts;Triaging+alerts+in+Splunk;Dissecting+memory+with+Volatility+3;Evidence+first.+Document+everything." alt="Typing animation" />
 
 <br>
 
-<a href="https://github.com/er3n007"><img src="https://img.shields.io/badge/GitHub-er3n007-14401a?style=flat-square&logo=github&logoColor=00ff41&labelColor=000000" alt="GitHub"></a>
-<img src="https://img.shields.io/badge/Focus-SOC%20%7C%20Blue%20Team-14401a?style=flat-square&logo=splunk&logoColor=00ff41&labelColor=000000" alt="SOC">
-<img src="https://img.shields.io/badge/Focus-DFIR-14401a?style=flat-square&logo=wireshark&logoColor=00ff41&labelColor=000000" alt="DFIR">
-<a href="https://er3n007.github.io"><img src="https://img.shields.io/badge/OPEN-FULL%20PROFILE-14401a?style=flat-square&labelColor=000000" alt="Open full profile"></a>
+<a href="https://github.com/er3n007"><img src="https://img.shields.io/badge/GitHub-er3n007-0d1117?style=for-the-badge&logo=github&logoColor=00ff41" alt="GitHub"></a>
+<img src="https://img.shields.io/badge/Focus-SOC%20%7C%20Blue%20Team-0d1117?style=for-the-badge&logo=splunk&logoColor=00ff41" alt="SOC">
+<img src="https://img.shields.io/badge/Focus-DFIR-0d1117?style=for-the-badge&logo=wireshark&logoColor=00ff41" alt="DFIR">
 
 </div>
 
@@ -69,7 +66,7 @@ status    : building labs, documenting everything
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=footer&animation=twinkling" alt="footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=120&section=footer" alt="footer" />
 
 <sub><code>learn continuously · investigate carefully · document clearly</code></sub>
 
